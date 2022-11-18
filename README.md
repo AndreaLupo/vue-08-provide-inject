@@ -1,0 +1,1 @@
+# vue-08-provide-inject
